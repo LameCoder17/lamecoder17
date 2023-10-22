@@ -7,7 +7,7 @@
 
 - :zap: In my free time, I solve problems on LeetCode and play Chess.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gshalom/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shalom-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gshalom/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -23,6 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LameCoder17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
